@@ -4,7 +4,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/go-redis/redis/v8/internal/util"
+	"github.com/ezoic/redis/internal/util"
 )
 
 func Sleep(ctx context.Context, dur time.Duration) error {

@@ -1,7 +1,7 @@
-module github.com/go-redis/redis/example/redis-bloom
+module github.com/ezoic/redis/example/redis-bloom
 
 go 1.14
 
-replace github.com/go-redis/redis/v8 => ../..
+replace github.com/ezoic/redis => ../..
 
-require github.com/go-redis/redis/v8 v8.11.5
+require github.com/ezoic/redis v8.11.5

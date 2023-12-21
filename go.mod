@@ -1,4 +1,4 @@
-module github.com/go-redis/redis/v8
+module github.com/ezoic/redis
 
 go 1.17
 
